@@ -5,6 +5,6 @@ Code based on [location sample](https://github.com/android/platform-samples/blob
 
 After enabling the fine location permission, the `LocationRequest` must be recreated.
 
-<br />
-![simulator location updates](https://github.com/IuliaSTANA/coarse-location-updates/blob/main/live_location_update.gif?raw=true)
-<br />
+
+![](https://github.com/IuliaSTANA/coarse-location-updates/blob/main/live_location_update.gif)
+
