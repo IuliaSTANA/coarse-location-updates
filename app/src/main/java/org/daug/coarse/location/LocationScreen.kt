@@ -138,7 +138,8 @@ private fun locationRequest(priority: Int) = LocationRequest.Builder(
 ).setWaitForAccurateLocation(false)
     .setIntervalMillis(5_000)
     .setMaxUpdateDelayMillis(7_000)
-    .setMinUpdateDistanceMeters(500f)
+//    Set threshold for minimum distance
+//    .setMinUpdateDistanceMeters(500f)
     .setMinUpdateIntervalMillis(3_000)
     .build()
 
